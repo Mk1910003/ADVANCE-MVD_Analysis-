@@ -1,46 +1,57 @@
-                                                         # 📊 Assignment on Advanced Multivariate Analysis
+<div align="center">
 
-                                                        **Course Title:** Statistical Data Analysis-I (Lab)  
-                                                                    **Course Code:** STAT 5107  
+# Assignment on Advanced Multivariate Analysis
 
-                                                         ---
+**Course Title:** Statistical Data Analysis-I (Lab)  
+**Course Code:** STAT 5107  
 
-                                                                      ## 📌 Submitted by  
-                                                                    **Moniruzzaman Khan**  
-                                                                     - **ID:** 22310003  
-                                                              - **Registration No:** 000013037  
-                                                                   - **Session:** 2023–24  
-                                                               - **Department of Statistics**  
-                                                           - **Begum Rokeya University, Rangpur**  
+---
 
-                                                          ---
+## Submitted by  
+**Moniruzzaman Khan**  
+ID: 22310003  
+Registration No: 000013037 
+Session: 2023–24  
+Department of Statistics  
+Begum Rokeya University, Rangpur  
 
-## 🎓 Submitted to  
+---
+
+## Submitted to  
 **Dr. Md. Siddikur Rahman**  
-- **Associate Professor**  
-- **Department of Statistics**  
-- **Begum Rokeya University, Rangpur**  
+Associate Professor  
+Department of Statistics  
+Begum Rokeya University, Rangpur  
 
 ---
 
-**📅 Submission Date:** 14.08.2025  
+**Submission Date:** 14.08.2025  
+
+</div>
 
 ---
 
-### 📖 Introduction
-This repository contains the assignment work for the course *Advanced Multivariate Analysis*.  
-It includes code, analysis, and documentation related to multivariate statistical techniques applied in the course.
+## 📖 Introduction
+This repository contains Python and R implementations of advanced multivariate statistical techniques from the Advanced Multivariate Techniques course. It covers PCA, CCA, Factor Analysis, DBSCAN, MDS, clustering, and correspondence analysis using real and sample datasets.
 
 ---
 
-## 📂 Contents
-- `data/` → Raw and processed datasets  
-- `notebooks/` → Jupyter/R scripts for analysis  
-- `results/` → Output plots, tables, and statistical summaries  
-- `report/` → Final written report in PDF/Docx  
-- `README.md` → This file  
+## 📂 Repository Contents
+
+| Folder / File | Description |
+|---------------|-------------|
+| [**CCA**](./CCA) | Canonical Correlation Analysis scripts, data, and results |
+| [**Cluster Analysis**](./Cluster%20Analysis) | Methods and results for various clustering techniques |
+| [**Correspondence Analysis**](./Correspondence%20Analysis) | Analysis scripts and outputs for correspondence analysis |
+| [**CovarianceMatrix**](./CovarianceMatrix) | Covariance matrix computation and related files |
+| [**Factor Analysis**](./Factor%20Analysis) | Exploratory and confirmatory factor analysis work |
+| [**MDS**](./MDS) | Multidimensional scaling scripts and outputs |
+| [**MVA_Full**](./MVA_Full) | Complete multivariate analysis workflow |
+| [**PCA**](./PCA) | Principal Component Analysis scripts and results |
+| [**README.md**](./README.md) | This documentation file |
 
 ---
+
 
 ## ⚙️ Requirements
 - **R** or **Python** (with statistical libraries installed)
@@ -49,19 +60,6 @@ It includes code, analysis, and documentation related to multivariate statistica
   - Python: `numpy`, `pandas`, `matplotlib`, `scikit-learn`
 
 ---
-
-## 🚀 How to Run
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/advanced-multivariate-analysis.git
-
-
-
-
-
-
-
-
 
 
 <h1 align="center">Hi 👋, I'm Moniruzzaman Khan</h1>
