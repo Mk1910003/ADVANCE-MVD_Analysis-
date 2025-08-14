@@ -1,3 +1,69 @@
+# 📊 Assignment on Advanced Multivariate Analysis
+
+**Course Title:** Statistical Data Analysis-I (Lab)  
+**Course Code:** STAT 5107  
+
+---
+
+## 📌 Submitted by  
+**Moniruzzaman Khan**  
+- **ID:** 22310003  
+- **Registration No:** 000013037  
+- **Session:** 2023–24  
+- **Department of Statistics**  
+- **Begum Rokeya University, Rangpur**  
+
+---
+
+## 🎓 Submitted to  
+**Dr. Md. Siddikur Rahman**  
+- **Associate Professor**  
+- **Department of Statistics**  
+- **Begum Rokeya University, Rangpur**  
+
+---
+
+**📅 Submission Date:** 14.08.2025  
+
+---
+
+### 📖 Introduction
+This repository contains the assignment work for the course *Advanced Multivariate Analysis*.  
+It includes code, analysis, and documentation related to multivariate statistical techniques applied in the course.
+
+---
+
+## 📂 Contents
+- `data/` → Raw and processed datasets  
+- `notebooks/` → Jupyter/R scripts for analysis  
+- `results/` → Output plots, tables, and statistical summaries  
+- `report/` → Final written report in PDF/Docx  
+- `README.md` → This file  
+
+---
+
+## ⚙️ Requirements
+- **R** or **Python** (with statistical libraries installed)
+- Packages:
+  - R: `MASS`, `car`, `ggplot2`, `psych`
+  - Python: `numpy`, `pandas`, `matplotlib`, `scikit-learn`
+
+---
+
+## 🚀 How to Run
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/advanced-multivariate-analysis.git
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Moniruzzaman Khan</h1>
 <h3 align="center">A passionate Data Analyst and Machine Learning expert from Bangladesh</h3>
 
