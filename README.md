@@ -54,10 +54,27 @@ This repository contains Python and R implementations of advanced multivariate s
 
 
 ## ⚙️ Requirements
-- **R** or **Python** (with statistical libraries installed)
-- Packages:
-  - R: `MASS`, `car`, `ggplot2`, `psych`
-  - Python: `numpy`, `pandas`, `matplotlib`, `scikit-learn`
+## 📦 Used Packages
+
+### **R**
+- `MASS` – Multivariate statistical methods  
+- `car` – Companion to applied regression  
+- `ggplot2` – Data visualization  
+- `psych` – Psychometric and multivariate analysis  
+- `factoextra` – Visualization of multivariate data  
+- `cluster` – Clustering algorithms  
+- `stats` – Base R statistical functions  
+- `mlbench` – Benchmark machine learning datasets (used for example datasets)  
+- `dbscan` – Density-based spatial clustering of applications with noise  
+- `NbClust` – Determining the optimal number of clusters in a dataset  
+
+### **Python**
+- `numpy` – Numerical computing  
+- `pandas` – Data manipulation  
+- `matplotlib` – Data visualization  
+- `seaborn` – Statistical data visualization  
+- `scikit-learn` – Machine learning and multivariate methods  
+
 
 ---
 
