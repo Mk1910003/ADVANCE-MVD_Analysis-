@@ -1,19 +1,19 @@
-# 📊 Assignment on Advanced Multivariate Analysis
+                                                         # 📊 Assignment on Advanced Multivariate Analysis
 
-**Course Title:** Statistical Data Analysis-I (Lab)  
-**Course Code:** STAT 5107  
+                                                        **Course Title:** Statistical Data Analysis-I (Lab)  
+                                                                    **Course Code:** STAT 5107  
 
----
+                                                         ---
 
-## 📌 Submitted by  
-**Moniruzzaman Khan**  
-- **ID:** 22310003  
-- **Registration No:** 000013037  
-- **Session:** 2023–24  
-- **Department of Statistics**  
-- **Begum Rokeya University, Rangpur**  
+                                                                      ## 📌 Submitted by  
+                                                                    **Moniruzzaman Khan**  
+                                                                     - **ID:** 22310003  
+                                                              - **Registration No:** 000013037  
+                                                                   - **Session:** 2023–24  
+                                                               - **Department of Statistics**  
+                                                           - **Begum Rokeya University, Rangpur**  
 
----
+                                                          ---
 
 ## 🎓 Submitted to  
 **Dr. Md. Siddikur Rahman**  
